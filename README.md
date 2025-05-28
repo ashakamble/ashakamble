@@ -25,7 +25,7 @@
 ---
 
 ### 🛠️ Technologies I Know
-- **Languages:** C, C++, Python, JavaScript
+- **Languages:** C, Python, JavaScript
 - **Frontend:** HTML, CSS, Bootstrap, React.js
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB, MySQL
